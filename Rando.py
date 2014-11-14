@@ -8,6 +8,6 @@ from random import randint
 for i in range(amount):
     num_list[i] = randint(Num_min, Num_max)
 
-print numlist
+print num_list
 
     
